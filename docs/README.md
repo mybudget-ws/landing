@@ -19,3 +19,7 @@ features:
 Инструмент для учета повседневных доходов и расходов.
 
 [2.mybudget.ws](https://2.mybudget.ws)
+
+## Советы по использованию
+1. [Создание иконки на домашнем экране iPhone для быстрого доступа на сайт](//2.mybudget.ws/#/helps/iphone-icon)
+1. [Как добавить иконки в названия категорий?](//2.mybudget.ws/#/helps/emoji-and-icons-in-categories)
