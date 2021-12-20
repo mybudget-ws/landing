@@ -1,9 +1,13 @@
 module.exports = {
   title: 'Мой бюджет',
   lang: 'ru-RU',
+  head: [
+    // ['link', { rel: 'icon', href: '/images/favicon.ico' }],
+    // ['link', { rel: 'fluid-icon', href: '/images/favicon-144.png' }],
+    ['link', { rel: 'icon', href: '/images/favicon-144.png' }],
+  ],
   themeConfig: {
     // logo: 'https://2.mybudget.ws/favicon-144.png'
-
     sidebar: [
       {
         text: 'История изменений',

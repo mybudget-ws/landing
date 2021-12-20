@@ -1,7 +1,7 @@
 ---
 home: true
 heroText: Мой бюджет
-heroImage: https://2.mybudget.ws/favicon-144.png
+heroImage: /images/favicon-144.png
 tagline: Домашняя бухгалтерия online
 actions:
   - text: Начать сейчас
