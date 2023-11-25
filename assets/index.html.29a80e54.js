@@ -1,0 +1,1 @@
+const e={key:"v-510ed0d4",path:"/changelog/",title:"\u0418\u0441\u0442\u043E\u0440\u0438\u044F \u0438\u0437\u043C\u0435\u043D\u0435\u043D\u0438\u0439",lang:"ru-RU",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1661705895e3,contributors:[{name:"blackchestnut",email:"alexander.kalinichev@gmail.com",commits:4}]},filePathRelative:"changelog/README.md"};export{e as data};
